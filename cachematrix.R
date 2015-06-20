@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+# achieve the function reference to makeVector function in example 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y){
@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-
+# achieve the function reference to chchemean function in example
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
   m <- x$getsolve()
